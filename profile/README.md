@@ -3,7 +3,7 @@
 This is the Foundation library written for [mulle-objc](//mulle-objc.github.io).
 
 *MulleFoundation* is collection of libraries to form a complete and powerful Objective-C
-class library for *mulle-objc*. An Objective-C Foundation traditionally contains no graphics code.
+class library for *mulle-objc*. As an Objective-C Foundation it contains no graphics code.
 
 The *MulleFoundation* is designed as plug and play system. Optional library components can be 
 left out with no bad side-effect. The concept of the *MulleFoundation* is to avoid actual 
