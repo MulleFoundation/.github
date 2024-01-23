@@ -10,7 +10,7 @@ left out with no bad side-effect. The concept of the *MulleFoundation* is to avo
 linking into a shared library or executable as much as possible. This has the benefit, that
 an optimizing pass can determine, which parts need to be actually linked and which not.
 
-*MulleFoundation* is based on [MulleObjC](//MulleObjC.github.io) and [mulle-core](//mulle-core.github.io).
+*MulleFoundation* is based on [MulleObjC](//github.com/MulleObjC) and [mulle-core](//github.com/mulle-core).
 Some constituent libraries bring in outside dependencies such as *expat* for XML parsing.
 
 
