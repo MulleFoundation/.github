@@ -1,5 +1,3 @@
-# MulleFoundation
-
 This is the Foundation library written for [mulle-objc](//mulle-objc.github.io).
 
 *MulleFoundation* is collection of libraries to form a complete and powerful Objective-C
